@@ -17,5 +17,9 @@
     "eslint": "2.7.0",
     "eslint-config-airbnb": "6.2.0",
     "eslint-plugin-react": "4.3.0"
+  },
+  "dependencies": {
+    "conventional-commits-parser": "1.0.1",
+    "nodegit": "0.12.2"
   }
 }
