@@ -1,0 +1,21 @@
+{
+  "name": "get-scopes-from-log",
+  "version": "0.0.0",
+  "description": "parse commit log for previously used scopes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commit",
+    "parse",
+    "scope"
+  ],
+  "author": "Jimdo GmbH",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "2.7.0",
+    "eslint-config-airbnb": "6.2.0",
+    "eslint-plugin-react": "4.3.0"
+  }
+}
